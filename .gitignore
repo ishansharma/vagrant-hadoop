@@ -1,0 +1,11 @@
+# macOS hidden file
+.DS_Store
+
+# local vagrant configuration files
+.vagrant
+*.log
+logs/
+
+# personal files
+data/class_wc
+data/input

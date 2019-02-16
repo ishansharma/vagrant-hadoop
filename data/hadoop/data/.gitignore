@@ -1,0 +1,6 @@
+# this file is here to make sure that this folder is committed
+
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
